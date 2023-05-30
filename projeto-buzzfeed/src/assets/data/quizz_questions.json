@@ -1,0 +1,53 @@
+{
+    "title":"Thigas ou Jajau vibes?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Você prefere ter empresas ou filhos?",
+        "options":[
+          {"id": 1, "name":"Empresas", "alias":"A"},
+          {"id": 2, "name":"Filhos", "alias":"B"},
+          {"id": 3, "name":"Fazer filhos para trabalhar nas empresas", "alias":"B"},
+          {"id": 4, "name":"Klabin", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "O que você faria num sábado letivo?",
+        "options":[
+          {"id": 1, "name":"Conhecer a mãe dos meus filhos", "alias":"B"},
+          {"id": 2, "name":"Visita técnica na Klabin", "alias":"A"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual é mais assustador ?",
+        "options":[
+          {"id": 1, "name":"Lobisomem", "alias":"B"},
+          {"id": 2, "name":"Quebrar o carro na estrada", "alias":"A"},
+          {"id": 3, "name":"Hegemonia estadunidense", "alias":"A"},
+          {"id": 4, "name":"Quebrar a mochila de rodinha", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual o seu maior foco ?",
+        "options":[
+          {"id": 1, "name":"Não falir a empresa (de novo)", "alias":"A"},
+          {"id": 2, "name":"Pagar a pensão", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual é sua área de pesquisa?",
+        "options":[
+          {"id": 1, "name":"Forças ocultas/lendas urbanas", "alias":"B"},
+          {"id": 2, "name":"Descobrir os segredos da Pirelli", "alias":"A"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "THIGAS VIBES",
+      "B": "JAU VIBES"
+    }
+  }
